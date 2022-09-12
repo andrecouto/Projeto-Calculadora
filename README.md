@@ -1,4 +1,4 @@
-#Projeto Calculadora
+# Projeto Calculadora
 
 Projeto simples de calculadora que envolve HTML, CSS e JavaScript.
 
